@@ -1,0 +1,7 @@
+name             'gh-move-example-a'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures gh-move-example-a'
+long_description 'Installs/Configures gh-move-example-a'
+version          '0.1.0'
